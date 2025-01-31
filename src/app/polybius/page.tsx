@@ -1,5 +1,5 @@
 import React from "react";
-import PolybiusCipher from "./_components/polybius-cipher";
+import PolybiusCipher from "../../components/polybius-cipher";
 
 const PolybiusCipherPage = () => {
   return (
